@@ -1,0 +1,10 @@
+{
+  "name": "Kroniky Aetherie",
+  "short_name": "Aetherie",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e14",
+  "theme_color": "#10131b",
+  "lang": "cs",
+  "icons": []
+}
